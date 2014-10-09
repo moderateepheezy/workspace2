@@ -1,0 +1,18 @@
+package testing;
+
+public class Matrix {
+	
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args){
+		int i;
+		int x[][] = {{1, 2, 3},{4, 5, 6}};
+		for( i = 0; i < x.length; i++){
+			for(int j = 0; j < x[i].length; j++){
+				System.out.println(x[i][j] + " ");
+			}
+			System.out.print("");
+		}
+	}
+}

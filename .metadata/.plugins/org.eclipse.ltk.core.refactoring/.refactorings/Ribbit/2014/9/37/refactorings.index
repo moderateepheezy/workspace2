@@ -1,0 +1,11 @@
+1410273134158	Extracts string 'null' into R.string.username_hint
+1410273157318	Extracts string 'null' into R.string.password_hint
+1410273244843	Extracts string 'null' into R.string.login
+1410273856157	Extracts string 'null' into R.string.sign_up_text
+1410277217678	Extracts string 'null' into R.string.email_hint
+1410277321879	Extracts string 'null' into R.string.sign_up_button_label
+1410293668585	Extract method 'navigateToLogin'
+1410446686769	Rename resource 'fragment_main.xml'
+1410446871934	Copy compilation unit
+1410446967881	Copy file
+1410458874645	Delete element
